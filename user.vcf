@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:yaoyichua@gmail.com
 TEL;type=WORK;type=VOICE:+65 96856170
 item1.ADR;type=WORK;type=pref:;;1 Raffles Institution Lane\nRaffles Institution\, ;;;138577;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:ri.edu.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
